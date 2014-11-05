@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <strings>
+	<string id="30001">Новое</string>
+	<string id="30002">Популярное</string>
+	<string id="30003">Лучшее</string>
+	<string id="30004">Обсуждаемое</string>
+	<string id="30005">Сейчас смотрят</string>
+	<string id="30006">Следующая страница</string>
+	<string id="30007">Предыдущая страница</string>
+    <string id="30629">Протокол SSL не поддерживается</string>
+
+
+    <string id="30030">Видео</string>
+	<string id="30031">Каналы</string>
+	<string id="30032">Сериалы</string>
+	<string id="30033">Фильмы</string>
+	<string id="30034">Аниме</string>
+
+
+    <string id="30020">Новинки</string>
+    <string id="30021">Популярные</string>
+    <string id="30022">Лучшие</string>
+    <string id="30023">Тэги</string>
+
+ </strings>

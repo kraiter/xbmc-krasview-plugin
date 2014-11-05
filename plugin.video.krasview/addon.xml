@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.krasview"
+       name="krasview.ru plugin"
+       version="1.0.0"
+       provider-name="kraiter">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.parsedom" version="2.5.1" />
+    <import addon="script.module.simplejson" version="2.0.10" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="ru">Плагин для просмотра видео с сайта www.krasview.ru</summary>
+    <description lang="ru">Первый плагин</description>
+    <platform>all</platform>
+    <language>ru</language>
+    <disclaimer>report to kraiter@bk.ru</disclaimer>
+  </extension>
+</addon>

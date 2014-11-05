@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <strings>
+	<string id="30001">New video</string>
+	<string id="30002">Popular video</string>
+	<string id="30003">The best</string>
+	<string id="30004">Most commented</string>
+	<string id="30005">Being watched</string>
+	<string id="30006">Next page</string>
+	<string id="30007">Previous page</string>
+    <string id="30629">SSL protocol not supported.</string>
+
+
+    <string id="30030">Video</string>
+	<string id="30031">Channel</string>
+	<string id="30032">Series</string>
+	<string id="30033">Movie</string>
+	<string id="30034">Anime</string>
+
+    <string id="30020">New</string>
+    <string id="30021">Popular</string>
+    <string id="30022">The best</string>
+    <string id="30023">Tags</string>
+
+ </strings>
